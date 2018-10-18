@@ -155,6 +155,8 @@ def process_login():
 
     customer.get_by_email('email', 'customer')
 
+    #if email in 
+
     # The logic here should be something like:
     #
     # - get user-provided name and password from request.form
